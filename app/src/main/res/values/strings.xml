@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Traeger Monitor</string>
+    <string name="temp">112°F</string>
+    <string name="address">127.0.0.1:8080</string>
+    <string name="address_hint">API address</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="settings_header">Settings</string>
+    <string name="address_title">Address</string>
+</resources>
